@@ -9,3 +9,4 @@
 7. [Marginal Histogram](MarginalHistogram.ipynb)
 8. [Correlogram](Correlogram.ipynb)
 9. [DivergingBars](DivergingBars.ipynb)
+10. [DivergingLollipop](DivergingLollipop.ipynb)
