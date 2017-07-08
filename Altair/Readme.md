@@ -16,3 +16,4 @@
 * [Dendogram](Dendogram.ipynb)
 * [Histogram Continuous](HistCont.ipynb)
 * [Histogram Discrete](HistDiscrete.ipynb)
+* [Calendar Heatmap](CalendarHeatmap.ipynb)
