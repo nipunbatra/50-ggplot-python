@@ -14,3 +14,4 @@
 * [Ordered Bar](OrderedBar.ipynb)
 * [Slope chart](SlopeChart.ipynb)
 * [Dendogram](Dendogram.ipynb)
+* [Histogram Continuous](HistCont.ipynb)
