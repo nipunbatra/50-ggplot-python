@@ -10,3 +10,4 @@
 8. [Correlogram](Correlogram.ipynb)
 9. [DivergingBars](DivergingBars.ipynb)
 10. [DivergingLollipop](DivergingLollipop.ipynb)
+11. [DivergingDot](DivergingDot.ipynb)
