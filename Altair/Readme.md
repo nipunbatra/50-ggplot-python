@@ -12,3 +12,4 @@
 * [DivergingLollipop](DivergingLollipop.ipynb)
 * [DivergingDot](DivergingDot.ipynb)
 * [Ordered Bar](OrderedBar.ipynb)
+* [Slope chart](SlopeChart.ipynb)
